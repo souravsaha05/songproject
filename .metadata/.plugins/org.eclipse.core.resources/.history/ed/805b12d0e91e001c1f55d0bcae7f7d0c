@@ -1,0 +1,5 @@
+package songjs;
+
+public class Song {
+
+}
